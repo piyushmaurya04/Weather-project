@@ -1,0 +1,2 @@
+# Weather-project
+ This repository contains a weather application developed using Java Servlets, JSP, and CSS, integrated with the OpenWeatherMap API. The application provides real-time weather updates for user-specified locations, displaying temperature, humidity, wind speed, and weather condition. Users can input their city name to retrieve the latest weather information, presented in a sleek and intuitive user interface.
